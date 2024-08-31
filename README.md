@@ -1,5 +1,5 @@
-#neospyder: Automated Vulnerability Detection & Alert System
-##Overview
+# neospyder: Automated Vulnerability Detection & Alert System
+## Overview
 neospyder is a web-scraping tool designed to automate the detection of critical and high-severity vulnerabilities from Original Equipment Manufacturer (OEM) websites and other relevant online platforms. By aggregating Open Source Intelligence (OSINT) data in real-time, neospyder provides actionable alerts to help organizations quickly respond to emerging cybersecurity threats.
 
 ##Features
