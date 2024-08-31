@@ -74,4 +74,4 @@ The scraper will start extracting vulnerability data according to the configurat
 **Receive Alerts:** Alerts will be sent to your configured email or Telegram account as soon as high-severity vulnerabilities are detected.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
