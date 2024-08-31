@@ -21,23 +21,23 @@ neospyder is a web-scraping tool designed to automate the detection of critical 
 ## Installation
 ### Clone the Repository:
 
-'''
-git clone https://github.com/yourusername/neospyder.git
+```
+git clone https://github.com/ckbadgujar2003/neospyder.git
 cd neospyder
-'''
+```
 
 ### Set Up a Virtual Environment:
 
-'''
+```
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-'''
+```
 
 ### Install the Required Packages:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### Set Up ChromeDriver:
 
@@ -51,9 +51,9 @@ Edit the config.py file to customize scraping sources, frequency, and alert sett
 ## Usage
 Run the Scraper:
 
-'''
+```
 python scraper.py
-'''
+```
 
 The scraper will start extracting vulnerability data according to the configurations set in config.py.
 
