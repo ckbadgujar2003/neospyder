@@ -7,7 +7,7 @@ neospyder is a web-scraping tool designed to automate the detection of critical 
 Automatically scrape vulnerability data from OEM websites and public sources. The tool supports various formats including HTML, XML, and JSON.
 ### Real-Time OSINT Integration: 
 Continuously monitors and extracts relevant data from open sources like vulnerability databases, RSS feeds, and Twitter API.
-### Customizable Monitoring: U
+### Customizable Monitoring: 
 sers can configure scraping frequency, sources, and alert mechanisms according to their needs.
 ### Alert System: 
 Generates reports on identified vulnerabilities and sends alerts via email or Telegram.
