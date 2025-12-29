@@ -76,7 +76,7 @@ You will also need the following Python packages:
    Execute the script by running:
 
    ```bash
-   python cisco_scrape.py
+   python OEM_scrape.py
    ```
 
    The script will:
